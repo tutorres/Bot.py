@@ -73,4 +73,4 @@ elif (calendar.day_name[curr_date.weekday()]) == 'Sunday':
 
 print(Bd)
 
-client.run('ODUxNzc2NDYyMTQ2NzY0ODIw.YL9MpQ.CmviWpOYb85TKwRH50ulKGyoud0')
+client.run('Token do seu Bot')
